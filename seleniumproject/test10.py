@@ -18,6 +18,7 @@ try:
     browser.execute_script("window.scrollBy(0,200);")
     browser.find_element_by_id("robotsRule").click()
     browser.find_element_by_tag_name("button").click()
+
 finally:
     time.sleep(10)
     browser.quit()
