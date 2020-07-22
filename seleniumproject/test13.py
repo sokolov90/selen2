@@ -21,4 +21,6 @@ try:
     answer.accept()
     print(ans)
 finally:
+    time.sleep(10)
     browser.quit()
+
