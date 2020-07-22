@@ -22,12 +22,6 @@ try:
     ans = ans1.text
     print(ans)
 
-
-
-
-
-
-
 finally:
     time.sleep(10)
     browser.quit()
