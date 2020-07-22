@@ -1,3 +1,3 @@
-# selen2
+# selen2 - папка с домашним заданием
 stepik - homework 
-1st repo
+
